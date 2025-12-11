@@ -37,7 +37,7 @@ This project performs end-to-end credit risk analysis including:
 ## 📁 Project Structure
 
 ```
-scoring/
+german_credit_scoring/
 ├── credit_scoring_analysis.ipynb    # Main analysis notebook
 ├── german_credit_data/
 │   ├── german.data                  # Dataset (categorical)
